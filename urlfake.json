@@ -1,3 +1,5 @@
 {
-  "inconsistencias": "/subsystems/relatorio/pages/relatorioContratosAVencerOuVencidos.jsf",
+  "urls": {    
+      "inconsistencias": "/subsystems/relatorio/pages/relatorioContratosAVencerOuVencidos.jsf"
+  }
 }
