@@ -1,3 +1,5 @@
 {
-  "url": "http://localhost:8080/sigacontrato"
+  "urls": {
+    "base": "http://localhost:8080/sigacontrato"
+  }
 }
