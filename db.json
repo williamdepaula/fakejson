@@ -2,7 +2,7 @@
   "urls": {
     "base": "http://localhost:8080/sigacontrato/subsystems"
   },
-  "contratosVigentes": {
+  "contratosVigentes": [
      {
           "nome": 'Locação de imóveis',
           "quantidade": "100",
@@ -36,5 +36,5 @@
           "quantidade": 123,
           "valor": 'R$ 9.958,00'
       }
-  }
+  ]
 }
