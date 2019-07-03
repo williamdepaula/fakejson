@@ -5,7 +5,7 @@
   "contratosVigentes": [
     {
           "nome": "Locação de imóveis",
-          "quantidade": "100",
+          "quantidade": 100,
           "valor": "R$ 12.958,00"
       }
   ]
