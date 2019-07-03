@@ -3,6 +3,9 @@
     "base": "http://localhost:8080/sigacontrato/subsystems"
   },
   "contratosVigentes": [
-     
+    {
+      "id": 1,
+      "title": "hello"
+    }     
   ]
 }
