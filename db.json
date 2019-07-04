@@ -47,13 +47,13 @@
         },
         {
           "id":3,
-          "nome",: "Armazenagem Ativos",
+          "nome": "Armazenagem Ativos",
           "quantidade": 10,
           "valor": "R$ 2.000,00"
         },
         {
           "id": 4,
-          "nome",: "Assitência Médica A Servidores",
+          "nome": "Assitência Médica A Servidores",
           "quantidade": 25,
           "valor": "R$ 5.000,00"
         }
