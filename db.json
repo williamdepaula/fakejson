@@ -34,22 +34,26 @@
       "valor": "R$ 90.111,05",
       "subtipo": [
         {
+          "id": 1,
           "nome": "Alimentação",
           "quantidade": 10,
           "valor": "R$ 6.000,00"
         },
         {
+          "id": 2,
           "nome": "Análise e Pesquisa Científicas",
           "quantidade": 25,
           "valor": "R$ 1.000,00"
         },
         {
-          "nome": "Armazenagem Ativos",
+          "id":3,
+          "nome",: "Armazenagem Ativos",
           "quantidade": 10,
           "valor": "R$ 2.000,00"
         },
         {
-          "nome": "Assitência Médica A Servidores",
+          "id": 4,
+          "nome",: "Assitência Médica A Servidores",
           "quantidade": 25,
           "valor": "R$ 5.000,00"
         }
