@@ -121,16 +121,5 @@
     {"id":9,"descricao":"SEMADE (Inativo)-Inativo"},
     {"id":10,"descricao":"SEPROTUR-Inativo"},
     {"id":11,"descricao":"JUCEMS-Inativo"},
-    {"id":12,"descricao":"FUNDTUR (Inativo)-Inativo"},
-    {"id":13,"descricao":"AGEPEN"},
-    {"id":14,"descricao":"AGESUL"},
-    {"id":15,"descricao":"DETRAN MS"},
-    {"id":16,"descricao":"FUNTRAB"},
-    {"id":17,"descricao":"IMASUL (Inativo)-Inativo"},
-    {"id":18,"descricao":"AGRAER (Inativo)-Inativo"},
-    {"id":19,"descricao":"MSGAS"},
-    {"id":20,"descricao":"FCMS (Inativo)-Inativo"},
-    {"id":21,"descricao":"SEJUSP"},
-    {"id":22,"descricao":"PGE"},
     ]
 }
