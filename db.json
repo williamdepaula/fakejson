@@ -132,12 +132,5 @@
     {"id":20,"descricao":"FCMS (Inativo)-Inativo"},
     {"id":21,"descricao":"SEJUSP"},
     {"id":22,"descricao":"PGE"},
-    {"id":23,"descricao":"SEGOV"},
-    {"id":24,"descricao":"SAD"},
-    {"id":25,"descricao":"AGIOSUL-Inativo"},
-    {"id":26,"descricao":"EGRHP"},
-    {"id":27,"descricao":"FUNSAU"},
-    {"id":28,"descricao":"FUNDESPORTE"},
-    {"id":29,"descricao":"FESA"},
     ]
 }
